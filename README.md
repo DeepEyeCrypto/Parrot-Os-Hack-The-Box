@@ -16,3 +16,6 @@ chmod +x setup-parrot-cli
 sudo apt search parrot-tool # To show all the available packages
 sudo apt install parrot-tools-web #or any other package
 apt install parrot-desktop-mate
+whet https://github.com/DeepEyeCrypto/Parrot-Os-Hack-The-Box/raw/refs/heads/main/ParrotOS.sh
+chmod +x ParrotOS.sh
+./ParrotOS.sh
